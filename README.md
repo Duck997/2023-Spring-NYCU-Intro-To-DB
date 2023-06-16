@@ -3,6 +3,9 @@
 接著我們會建立一個網站，提供使用者瀏覽我們彙整過後的資料，  
 透過我們的網站，可以達成快速篩選或推薦電影的需求。  
 除此之外， 使用者可以透過添加評價的方式來將他們的對於電影的心得反饋回來。  
+# Dataset
+資料來源<br>
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset<br>
 # XAMPP
 1.下載XAMPP<br>
 2.打開Apache和MySQL<br>
