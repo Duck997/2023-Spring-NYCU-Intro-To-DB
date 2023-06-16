@@ -4,6 +4,6 @@
 透過我們的網站，可以達成快速篩選或推薦電影的需求。  
 除此之外， 使用者可以透過添加評價的方式來將他們的對於電影的心得反饋回來。  
 # XAMPP
-1.下載XAMPP
-2.打開Apache和MySQL
+1.下載XAMPP<br>
+2.打開Apache和MySQL<br>
 3.連接phpmyadmin
